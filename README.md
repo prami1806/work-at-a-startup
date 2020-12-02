@@ -1,5 +1,4 @@
 # Work at a Startup
-![Slack](https://join.slack.com/t/workatastartu-5ah7629/shared_invite/zt-jnx932p1-OxVqrz~SAH5FBFp2FaFw7A)
 
 **Brite** is an exciting early-stage startup focusing on improving career and offering opportunities to
 students. They host several competitions, quizzes, case studies, hackathons, contests etc. throughout the year, 
