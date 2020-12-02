@@ -1,14 +1,15 @@
 # Work at a Startup
+![Slack](https://join.slack.com/t/workatastartu-5ah7629/shared_invite/zt-jnx932p1-OxVqrz~SAH5FBFp2FaFw7A)
 
 **Brite** is an exciting early-stage startup focusing on improving career and offering opportunities to
 students. They host several competitions, quizzes, case studies, hackathons, contests etc. throughout the year, 
 in various fields for students to participate at a minimal charge as well as offer internships opportunities to beginners, 
 along with blogging facilities.
 Winners of their competitions get a chance to showcase their entries in our achiever’s blog.
-Visit their [website]() for details.
+Visit their [website](https://main.d29puj6tk3jn5f.amplifyapp.com/) for details.
 
 This is the codebase of <strong>Brite</strong> website. Any changes pushed to this repository will be directly
-reflected in the [website]().
+reflected in the [website](https://main.d29puj6tk3jn5f.amplifyapp.com/).
 
 This website is made using Jekyll. Please read the [docs](https://jekyllrb.com/docs/) to understand the site 
 structure, set up your local computer and to make any further meaningful contributions.
@@ -35,7 +36,7 @@ as be resolved as soon as possible.
 and many more.
 
 ### Communication Channel
-[Join on slack]()
+[Join on slack](https://join.slack.com/t/workatastartu-5ah7629/shared_invite/zt-jnx932p1-OxVqrz~SAH5FBFp2FaFw7A)
 
 
 
