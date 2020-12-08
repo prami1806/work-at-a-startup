@@ -3,7 +3,8 @@
     <img src="assets/images/about-page-logo.jpg" width="220" height="240" />
 </p>
 
-# Work at a Startup
+Work at a Startup :sparkles:
+=================
 
 **Brite** is an exciting early-stage startup focusing on improving career and offering opportunities to
 students. They host several competitions, quizzes, case studies, hackathons, contests etc. throughout the year, 
@@ -23,13 +24,15 @@ structure, set up your local computer and to make any further meaningful contrib
 </p>
 
 
-### Getting Started
-Clone this repo. Navigate into the main directory in the terminal and then:
+### Getting Started :+1:
+* Clone this repository.
+* Navigate into the main directory.
+* Then, in the terminal, copy and paste the following command:
 ```
 bundle exec jekyll serve
 ```
 
-### Updates
+### Updates :hourglass: 
 Currently, lot of changes need to be done as far the business is concerned:
 - Fix broken links
 - Create a logo
@@ -44,8 +47,14 @@ as be resolved as soon as possible.
 
 and many more.
 
-### Communication Channel
-[Join on slack](https://join.slack.com/t/workatastartu-5ah7629/shared_invite/zt-jnx932p1-OxVqrz~SAH5FBFp2FaFw7A)
+### Communication Channel :link:
+* [Join on slack](https://join.slack.com/t/workatastartu-5ah7629/shared_invite/zt-jnx932p1-OxVqrz~SAH5FBFp2FaFw7A)
+
+### Direct links for Contributors :octocat:
+* [Issues](https://github.com/prami1806/work-at-a-startup/issues)
+* [Pull Request](https://github.com/prami1806/work-at-a-startup/pulls)
+
+### :large_blue_diamond: Keep Contributing :large_blue_diamond:
 
 
 
