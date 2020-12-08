@@ -1,6 +1,6 @@
 
-<p>
-    <img src="https://github.com/prakarsh7695/work-at-a-startup/assets/images/brite-white.PNG" width="220" height="240" />
+<p align="center">
+    <img src="assets/images/brite-white.PNG" width="220" height="240" />
 </p>
 
 # Work at a Startup
