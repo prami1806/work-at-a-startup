@@ -18,6 +18,11 @@ reflected in the [website](https://main.d29puj6tk3jn5f.amplifyapp.com/).
 This website is made using Jekyll. Please read the [docs](https://jekyllrb.com/docs/) to understand the site 
 structure, set up your local computer and to make any further meaningful contributions.
 
+<p align="center">
+    <img src="assets/images/ss.PNG"/>
+</p>
+
+
 ### Getting Started
 Clone this repo. Navigate into the main directory in the terminal and then:
 ```
