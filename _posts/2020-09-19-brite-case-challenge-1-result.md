@@ -6,7 +6,7 @@ tags: ['stories']
 author: admin
 ---
 
-We are proud to announce the results of Brite Case Challenge(BCC). (Download the problem statement [here](/assets/ps/brite-case-challenge.pdf) ). The competition was neck-to-neck, and after thorough evaluation, we announce our winner as **Pranav KS** from **Symbiosis School for Liberal Arts**. Below is his analysis:
+We are proud to announce the results of Brite Case Challenge(BCC). (Download the problem statement [here](/assets/pdf/ps/brite-case-challenge.pdf) ). The competition was neck-to-neck, and after thorough evaluation, we announce our winner as **Pranav KS** from **Symbiosis School for Liberal Arts**. Below is his analysis:
 
 Solution- 
 i.        Marketing strategy 1- Low Fee Installation (free for premium product purchases) 
