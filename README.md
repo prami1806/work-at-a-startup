@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="assets/images/brite-white.PNG" width="220" height="240" />
+    <img src="assets/images/about-page-logo.jpg" width="220" height="240" />
 </p>
 
 # Work at a Startup
