@@ -1,3 +1,8 @@
+
+<p>
+    <img src="https://github.com/prakarsh7695/work-at-a-startup/assets/images/brite-white.PNG" width="220" height="240" />
+</p>
+
 # Work at a Startup
 
 **Brite** is an exciting early-stage startup focusing on improving career and offering opportunities to
