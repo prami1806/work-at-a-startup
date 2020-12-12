@@ -3,44 +3,6 @@ layout: about
 title: Contact
 ---
 
-<script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCYnu-AgfmCm3wWfbsd_oidtqqpAra3Ayg&callback=initMap&libraries=&v=weekly"
-      defer
-></script>
-
-<style type="text/css">
-  /* Set the size of the div element that contains the map */
-  #map {
-    height: 200px;
-    width: 100%;
-  }
-  @media(min-width: 999px) {
-    #map {
-      height: 300px;
-      width: 80%;
-      left: 10%;
-    }
-  }
-</style>
-
-<script>
-  // Initialize and add the map
-  function initMap() {
-    // The location of IIT Kharagpur Main Building
-    const iitkgp = { lat: 22.3197, lng: 87.3100 };
-    // The map, centered at IIT Kharagpur Main Building
-    const map = new google.maps.Map(document.getElementById("map"), {
-      zoom: 16,
-      center: iitkgp,
-    });
-    // The marker, positioned at IIT Kharagpur Main Building
-    const marker = new google.maps.Marker({
-      position: iitkgp,
-      map: map,
-    });
-  }
-</script>
-
   <h2>Contact</h2>
   <b><big>Submission</big></b><br/>
  Do you have an achievement you are really proud of? Share us your stories. 
@@ -50,4 +12,28 @@ title: Contact
  In case you like us and never wish to miss any updates, be it future opportunites or a blog entry, 
  click ‘Subscribe via RSS’ at the bottom of the page to get content in your feed reader directly. <br/><br/>
 
- <div id="map"></div>
+ <div class="mapouter">
+    <iframe id="gmap_canvas" src="https://maps.google.com/maps?q=indian%20institute%20of%20technology%20kharagpur&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
+    </iframe>
+    <style>
+      .mapouter{
+        position:relative;
+        text-align:right;
+        height:300px;
+        width:100%;
+      }
+      #gmap_canvas {
+        overflow:hidden;
+        background:none!important;
+        height:100%;
+        width:100%;
+      }
+      @media(min-width : 999px) {
+        .mapouter{
+          height: 500px;
+          width: 90%;
+          left: 5%;
+        }
+      }
+    </style>
+</div>
