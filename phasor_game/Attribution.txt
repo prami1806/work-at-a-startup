@@ -1,0 +1,6 @@
+Images made with : LOGOPIT
+Background Image & Video from: PEXELS
+FIRE sprite :
+	https://opengameart.org/content/bomb-explosion-animation
+	 Attribution Instructions: 
+	Blood _ Copyright 2011 by shimobayashi <http://opengameart.org/content/teqq-princess-image-materials> Color edit to look like explosion Copyright 2012 by qubodup <http://opengameart.org/users/qubodup> License: CCBY3 or later <http://creativecommons.org/licenses/by/3.0/>

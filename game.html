@@ -1,0 +1,63 @@
+---
+layout: Game
+title: Game
+---
+<!DOCTYPE html>
+<html>
+  <head <link rel="stylesheet" href="load.css">
+    <meta charset="utf-8" />
+    <title>Brite Game</title>
+    <style >
+        #Video {
+          position:  center;
+          right: 0;
+          bottom: 0;
+          min-width: 100%;
+          min-height: 100%;
+          margin: 0;
+          padding:0;
+        }
+
+        .content {
+          text-align: center;
+          position: fixed;
+          bottom: 0;
+          background: rgba(0, 0, 0, 0.5);
+          color: Yellow;
+          width: 100%;
+          padding: 10px;
+        }
+
+        #Button {
+          width: 120px;
+          font-size: 26px;
+          padding: 5px;
+          border: none;
+          background: #bfff00;
+          color: black;
+          cursor: pointer;
+          
+        }
+
+        #Button:hover {
+          background: yellow;
+          color: Red;
+        }
+
+    </style>
+    <script src="js/phaser.min.js"></script>
+  </head>
+  <body style="background-color:black">
+      
+    <video autoplay muted loop id="Video">
+      <source src="phasor_game/Pexels Videos 3931.mp4" type="video/mp4">
+    </video>
+
+    <div class="content">
+      <h1>Welcome to Brite Game</h1>
+      <h3>Click the button below to START Game</h3>
+      
+      <div href="phasor_game/game.html"></div><button id="Button" ><a href="phasor_game/game.html" >START</a></button></div>
+    </div>
+  </body>
+</html>
